@@ -206,7 +206,6 @@ java -cp out Main
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here after taking them)*
 
 | View Items Tab | Borrow & Return Tab |
 |---|---|
